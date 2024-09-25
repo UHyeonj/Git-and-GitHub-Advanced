@@ -12,7 +12,7 @@ docs(w01): 연습 문제 풀이 <이름>
 <summary>예시 보기</summary>
 
 ```
-docs(w01): 연습 문제 풀이 <김동주>
+docs(w01): 연습 문제 풀이 <이혜연>
 ```
 
 </details>
