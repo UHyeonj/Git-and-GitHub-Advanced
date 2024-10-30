@@ -19,6 +19,7 @@ docs(w01): 연습 문제 풀이 <김동주>
 
 # 연습 문제
 
+
 > Q. 처음 저장소를 Clone 하면 모든 파일은 Untracked이면서 Unmodified 상태이다. (N)
 
 clone한다면 바로 git에서 관리하기 때문에 untracked이면서 unmodified이다.
